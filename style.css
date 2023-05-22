@@ -27,3 +27,14 @@ header, footer {
     text-transform: uppercase;
     color: #FFFFFF;
 }
+
+.main {
+    padding: 100px 0px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 44px;
+    text-transform: uppercase;
+    color: #2F2E41;
+}
