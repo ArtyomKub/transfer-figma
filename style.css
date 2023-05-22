@@ -80,6 +80,7 @@ h1 {
     padding: 46px 20px;
     width: 370px;
     display: flex;
+    flex-grow: 1;
     flex-direction: column;
 }
 
