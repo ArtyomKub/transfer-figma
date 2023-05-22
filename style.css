@@ -13,6 +13,7 @@ body {
 
 header, footer {
     background-color: #6C63FF;
+    height: 80px;
 }
 
 .login-btn {
