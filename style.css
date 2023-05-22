@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+}
+
+header, footer {
+    background-color: #6C63FF;
+}
+
+.login-btn {
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 38px;
+    background-color: transparent;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
