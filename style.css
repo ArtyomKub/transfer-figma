@@ -37,4 +37,20 @@ h1 {
     font-size: 44px;
     text-transform: uppercase;
     color: #2F2E41;
+    margin-bottom: 70px;
 }
+
+.card {
+    background-color: #FFFFFF;
+    border: 2px solid #E7E7E7;
+    border-radius: 5px;
+}
+
+.cart-title {
+    font-weight: 700;
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2F2E41;
+}
+
