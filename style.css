@@ -9,11 +9,23 @@ body {
     font-style: normal;
     line-height: 1.2;
     letter-spacing: -0.02em;
+    color: #2F2E41;
+}
+
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+header {
+    height: 80px;
 }
 
 header, footer {
     background-color: #6C63FF;
-    height: 80px;
 }
 
 .login-btn {
@@ -36,7 +48,6 @@ h1 {
     font-weight: 700;
     font-size: 44px;
     text-transform: uppercase;
-    color: #2F2E41;
     margin-bottom: 70px;
 }
 
@@ -44,6 +55,8 @@ h1 {
     background-color: #FFFFFF;
     border: 2px solid #E7E7E7;
     border-radius: 5px;
+    padding: 46px 20px;
+    width: 370px;
 }
 
 .cart-title {
@@ -51,6 +64,31 @@ h1 {
     font-size: 22px;
     text-align: center;
     text-transform: uppercase;
-    color: #2F2E41;
+
 }
 
+.card-image {
+    width: 200px;
+    margin: 40px 0 36px;
+}
+
+.card-text {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+footer {
+    padding: 20px;
+}
+
+footer a {
+    padding: 10px 15px;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.icon {
+    margin-right: 10px;
+}
