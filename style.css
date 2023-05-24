@@ -120,10 +120,20 @@ footer a {
 }
 
 @media screen and (max-width: 767px) {
-
+    .main {
+        padding: 46px 0 50px;
+    }
+    h1 {
+        font-size: 36px;
+    }
 }
 
 @media screen and (max-width: 576px) {
-
+    .logo-img {
+        width: 160px;
+    }
+    h1 {
+        font-size: 36px;
+    }
 }
 
